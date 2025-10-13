@@ -1,6 +1,6 @@
 // Definindo o herói
-let nome = "Gabrielly";
-let xp = 7500;
+let nome = "Carollyne";
+let xp = 9500;
 let nivel = "";
 
 // Estrutura de decisão
@@ -24,5 +24,6 @@ if (xp < 1000) {
 
 // Saída
 console.log("O Herói de nome " + nome + " está no nível de " + nivel);
+
 
 
